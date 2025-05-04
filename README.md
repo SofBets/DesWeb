@@ -1,3 +1,10 @@
+. Create a README.md File:
+# Personal Notes API
+This project is a Laravel application for managing personal notes via a
+RESTful API. It allows users to create, read, update, and delete notes. Each note
+contains a title, author, date and time, body, and classification.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
